@@ -9,7 +9,7 @@ Ce projet permet de comprendre le fonctionnement interne d’un interpréteur de
 
 ## ✅ Fonctionnalités principales
 
-Exécution de commandes simples `ls`, `echo`,` `etc`.
+Exécution de commandes simples `ls`, `echo`, `etc`.
 
 Gestion des redirections `>`, `<`, `>>`, '<<'
 
