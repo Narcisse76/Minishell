@@ -11,7 +11,7 @@ Ce projet permet de comprendre le fonctionnement interne d’un interpréteur de
 
 Exécution de commandes simples `ls`, `echo`, `etc`.
 
-Gestion des redirections `>`, `<`, `>>`, '<<'
+Gestion des redirections `>`, `<`, `>>`, `<<`
 
 Support des pipes pour enchaîner plusieurs commandes
 
